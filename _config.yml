@@ -1,0 +1,28 @@
+name: Dream A Gift
+favicon: null
+layout_spectrum: 0.37138614268042147
+typography_spectrum: 0.34863483207300305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6709306910634041
+  lightness: 0.9819949411321431
+  saturation: 0.17491951282136142
+  rhythmicContrast: 0.43163824803195894
+purpose: []
